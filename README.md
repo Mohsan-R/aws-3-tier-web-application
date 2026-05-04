@@ -28,6 +28,9 @@ It also includes:
 - MySQL
 - Apache Server
 
+## 📸 Screenshots
+<img width="1024" height="1536" alt="ChatGPT Image Apr 19, 2026, 12_54_00 AM (1)" src="https://github.com/user-attachments/assets/ba5bab12-5064-4f1d-a5da-daa6e5d7070e" />
+
 
 ## 📚 What I Learned
 - Designing cloud architecture using AWS
